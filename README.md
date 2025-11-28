@@ -7,13 +7,10 @@ This repository contains two beginner-friendly Python programs designed to pract
 
 This program takes two numbers as input from the user and performs:
 
-Addition
-
-Subtraction
-
-Multiplication
-
-Division (rounded to 2 decimal places)
+1. Addition
+2. Subtraction 
+3. Multiplication 
+4. Division (rounded to 2 decimal places)
 
 📄 Code
 # Perform Basic Operations like addition, subtraction, multiplication, divide by taking two number as user input
